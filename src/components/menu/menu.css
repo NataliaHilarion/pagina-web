@@ -1,0 +1,14 @@
+.menu-wrapper{
+  border-bottom: 1px solid var(--menu-text-color);
+}
+
+.menu{
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 80px;
+  align-items: center;
+  justify-content: start;
+  padding: 0;
+  margin-left: 40px;
+}
